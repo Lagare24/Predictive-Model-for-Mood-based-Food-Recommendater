@@ -1,126 +1,126 @@
-comfort_food,comfort_food_reasons,comfort_food_reasons_coded,Gender,food_group,mood_category
-none,we dont have comfort ,9.0,2,Others,['other']
-"chocolate, chips, ice cream","Stress, bored, anger",1.0,1,Dairy,"['stress/anxiety', 'other', 'other']"
-"frozen yogurt, pizza, fast food","stress, sadness",1.0,1,Starchy food,"['stress/anxiety', 'sadness']"
-"Pizza, Mac and cheese, ice cream",Boredom,2.0,1,Starchy food,['boredom']
-"Ice cream, chocolate, chips ","Stress, boredom, cravings ",1.0,1,Dairy,"['stress/anxiety', 'boredom', 'other']"
-"Candy, brownies and soda.","None, i don't eat comfort food. I just eat when i'm hungry.",4.0,1,Fat,"['other', 'other']"
-"Chocolate, ice cream, french fries, pretzels","stress, boredom",1.0,2,Starchy food,"['stress/anxiety', 'boredom']"
-"Ice cream, cheeseburgers, chips.","I eat comfort food when im stressed out from school(finals week), when I`m sad, or when i am dealing with personal family issues.",1.0,1,Dairy,"['other', 'other', 'other']"
-"Donuts, ice cream, chips",Boredom ,2.0,1,Dairy,['boredom']
-"Mac and cheese, chocolate, and pasta ","Stress, anger and sadness ",1.0,1,Starchy food,"['stress/anxiety', 'other']"
-"Pasta, grandma homemade chocolate cake anything homemade ",Boredom ,2.0,1,Starchy food,['boredom']
-"chocolate, pasta, soup, chips, popcorn","sadness, stress, cold weather",3.0,1,Starchy food,"['sadness', 'stress/anxiety', 'other']"
-"Cookies, popcorn, and chips","Sadness, boredom, late night snack ",3.0,2,Fat,"['sadness', 'boredom', 'other']"
-"ice cream, cake, chocolate","stress,  boredom, special occasions",1.0,1,Dairy,"['stress/anxiety', 'boredom', 'other']"
-"Pizza, fruit, spaghetti, chicken and Potatoes  ","Friends, environment and boredom",2.0,2,Fruit and Vegetables,"['other', 'other']"
-"cookies, donuts, candy bars",boredom,2.0,2,Fat,['boredom']
-"Saltfish, Candy and Kit Kat ",Stress ,1.0,1,Protein,['stress/anxiety']
-"chips, cookies, ice cream","I usually only eat comfort food when I'm bored, if i am doing something, i can go for hours without eating ",2.0,2,Dairy,"['other', 'other', 'other']"
-"Chocolate, ice crea ","Sadness, stress",3.0,1,Fat,"['sadness', 'stress/anxiety']"
-"pizza, wings, Chinese","boredom, sadness, hungry",2.0,2,Starchy food,"['boredom', 'sadness', 'other']"
-"Fast food, pizza, subs","happiness, satisfaction",7.0,2,Starchy food,"['happiness/celebration', 'other']"
-"chocolate, sweets, ice cream",Mostly boredom,2.0,2,Dairy,['other']
-"burgers, chips, cookies","sadness, depression ",3.0,2,Fat,"['sadness', 'other']"
-"Chilli, soup, pot pie",Stress and boredom ,1.0,2,Others,['other']
-"Soup, pasta, brownies, cake","A long day, not feeling well, winter ",6.0,1,Starchy food,"['other', 'other', 'other']"
-"chocolate, ice cream/milkshake, cookies",boredom,2.0,1,Dairy,['boredom']
-"Chips, ice cream, microwaveable foods ","Boredom, lazyniss ",2.0,2,Dairy,"['boredom', 'other']"
-"Chicken fingers, pizza ",Boredom ,2.0,2,Starchy food,['boredom']
-"cookies, hot chocolate, beef jerky","survival, bored",2.0,2,Protein,"['other', 'other']"
-"Tomato soup, pizza, Fritos, Meatball sub, Dr. Pepper","Boredom, anger, drunkeness",2.0,2,Fruit and Vegetables,"['boredom', 'other', 'other']"
-"cookies, mac-n-cheese, brownies, french fries, ","stress, boredom, cold weather",1.0,1,Starchy food,"['stress/anxiety', 'boredom', 'other']"
-"chips and dip, pepsi, ","stres, boredom, and nighttime",1.0,2,Fat,"['other', 'boredom', 'other']"
-"Grandma's Chinese, Peruvian food from back home, and sushi",Hunger and Boredom ,4.0,2,Others,['other']
-"Ice cream, cookies,  Chinese food, and chicken nuggets ","boredom, sadness, and if it has a good taste. ",2.0,1,Dairy,"['boredom', 'sadness', 'other']"
-"french fries, chips, ice cream","boredom, stressed, sad",2.0,1,Starchy food,"['boredom', 'other', 'other']"
-"mac n cheese, peanut butter and banana sandwich, omelet",Boredom usually,2.0,1,Starchy food,['other']
-"pizza, doughnuts, mcdonalds ",boredom,2.0,1,Starchy food,['boredom']
-"chocolate, chips, candy",Stress,1.0,1,Fat,['stress/anxiety']
-"chocolate, popcorn, ice cream","boredom, stress",2.0,1,Dairy,"['boredom', 'stress/anxiety']"
-"CandyPopChocolate Chipotle Moe's ",No reasons ,9.0,2,Fat,['other']
-"Pizza, Ice cream, fries, cereal, cookies  ",Usually if I'm sad or depressed. ,3.0,2,Starchy food,['other']
-"Ice cream, chocolate, twizzlers ",Tired ,5.0,1,Dairy,['other']
-"ice cream, cookie dough, cookies, cheese","Boredom!, sadness",2.0,1,Dairy,"['other', 'sadness']"
-"ice cream, cereal, and salt and vinegar chips ","All of the above; sadness, boredom and confusion ",3.0,1,Dairy,"['other', 'other']"
-"Potato chips, ice cream, chocolate, cookies","Stress, boredom, craving",1.0,1,Dairy,"['stress/anxiety', 'boredom', 'other']"
-"Mac and cheese, fried chicken, cornbread ","Hunger, boredom",4.0,1,Dairy,"['other', 'boredom']"
-"popcorn, chips, candy, & fries ","sadness, boredom, & anger ",3.0,2,Starchy food,"['sadness', 'boredom', 'other']"
-"Chex-mix, Wegmans cookies, Cheez-Its ","Boredom, happiness, distraught ",2.0,2,Fat,"['boredom', 'happiness/celebration', 'other']"
-"pizza, ice cream, chips","stressed, upset, or just craving a cheat meal",1.0,2,Starchy food,"['other', 'other', 'other']"
-"fried chicken. mashed potatoes, mac and cheese",They taste better than other food. They are a pickme up. They are easy to make,5.0,2,Starchy food,['other']
-"Popcorn, Chex Mix, Pizza","Stress, boredom",1.0,2,Starchy food,"['stress/anxiety', 'boredom']"
-Burger,Lazy,5.0,2,Others,['other']
-"Pizza, chocolate, and ice cream ","Boredom, sadness and anger ",2.0,2,Starchy food,"['boredom', 'other']"
-"fries, chips, fried chicken, pizza, grapes","Boredom, sadness",2.0,2,Fruit and Vegetables,"['boredom', 'sadness']"
-"peanut butter sandwich, pretzals, garlic bread","stress, anger and boredom",1.0,2,Starchy food,"['stress/anxiety', 'other']"
-"chips, dip, fries, pizza","bored, stress",2.0,1,Starchy food,"['other', 'stress/anxiety']"
-"Pizza, Ice Cream, Chicken Wings",I usually only eat comfort foods when I am bored. I will also eat them when I am happy to celebrate and then when I am sad to comfort me.,2.0,2,Starchy food,['other']
-Pizza chocolate chips bagels ice Capps ,Just cause ,9.0,1,Starchy food,['other']
-"Chocolate, ice cream, pasta","Stress, boredom, sadness",1.0,1,Starchy food,"['stress/anxiety', 'boredom', 'sadness']"
-Mac n Cheese. Chips and salsa. Ice cream. ,Boredom. Celebration. ,2.0,1,Dairy,['other']
-"peanut butter, dessets, pretzels. ","Sadness, boredom, lonely.",3.0,1,Fat,"['sadness', 'boredom', 'other']"
-"Macaroons, truffles, peanut butter n chocolate ice cream","I do not really eat ""comfort food"" but I guess sadness, special occasions, and anxiety ",3.0,1,Dairy,"['other', 'other', 'other']"
-"ice cream, cookies, ice cream","boredom, sadness",2.0,2,Dairy,"['boredom', 'sadness']"
-"carrots and ranch, pretzels, dark chocolate ",sadness,3.0,1,Fruit and Vegetables,['sadness']
-"cookies, nutella, ice cream, coffee, fruit ","Bordem, happiness, sadness",2.0,1,Fruit and Vegetables,"['other', 'happiness/celebration', 'sadness']"
-mac and cheese,boredom,2.0,1,Dairy,['boredom']
-"Chocolate, Popcorn, Icecream",sadness,3.0,1,Fat,['sadness']
-"Ice cream, cake, mozzarella sticks, pierogies ",Boredom,2.0,1,Dairy,['boredom']
-"Chips, Mac and cheese, pizza, French fries ","Stress, sadness, bored ",1.0,1,Starchy food,"['stress/anxiety', 'sadness', 'other']"
-"Pizza, burritos, slim jims","Boredom, stress, and it tastes good",2.0,1,Starchy food,"['boredom', 'stress/anxiety', 'other']"
-"Broccoli, spaghetti squash, quinoa, and grilled chicken","Bad day, bored, sadness",2.0,1,Fruit and Vegetables,"['other', 'other', 'sadness']"
-"Chocolate, ice cream, cookie dough","Boredom, being in your period, and long bus rides for softball",2.0,1,Dairy,"['boredom', 'other', 'other']"
-"pizza, pretzels, fruit snacks, deli sandwhich","boredom, anger, happy",2.0,2,Fruit and Vegetables,"['boredom', 'other', 'other']"
-"Chips, ice cream","Boredom, stress",2.0,2,Dairy,"['boredom', 'stress/anxiety']"
-unknown,unknown,9.0,2,Others,['other']
-"mac and cheese, potato soup, ice cream, chips and cheese","sadness, stressed, boredom",3.0,1,Dairy,"['sadness', 'other', 'boredom']"
-"chocolate, pizza, and mashed potatoes",boredom and stress,2.0,1,Starchy food,['other']
-Pizza cookies steak ,Boredom comfort hunger ,2.0,2,Starchy food,['other']
-"chocolate, fruit, and ice cream","stress, boredom",1.0,1,Fruit and Vegetables,"['stress/anxiety', 'boredom']"
-Chips sweets popcorn,Boredom,2.0,2,Fat,['boredom']
-"Cookies, burgers, chicken noodle soup, ice cream","happiness, hunger, sadness",7.0,1,Starchy food,"['happiness/celebration', 'other', 'sadness']"
-"cake, French fries, chicken nuggets","boredom, sadness",2.0,1,Starchy food,"['boredom', 'sadness']"
-"pizza, ice cream, cookies",boredom,2.0,1,Starchy food,['boredom']
-"Mashed potatoes, pasta","Boredom, sadness, or with friends ",2.0,1,Starchy food,"['boredom', 'sadness', 'other']"
-"Pasta dishes, Cheesecake, Pancakes","Sadness, Loneliness, Boredom",3.0,1,Starchy food,"['sadness', 'other', 'boredom']"
-"Ice cream, pizza, cookies",Mostly Stress,1.0,1,Starchy food,['other']
-"Chinese food, moes, sponge candy, homemade lasagne ","boredom, sadness ",2.0,1,Fat,"['boredom', 'sadness']"
-"pizza, pasta, mac and cheese",when i am sad or craving,3.0,2,Starchy food,['other']
-"Little Debbie snacks, donuts, pizza",None,9.0,2,Starchy food,['other']
-"carrots, plantain chips, almonds, popcorn ","stress, boredom, college as whole ",1.0,1,Fruit and Vegetables,"['stress/anxiety', 'boredom', 'other']"
-"chips, ice cream, fruit snacks",boredom,2.0,2,Fruit and Vegetables,['boredom']
-"Macaroni and cheese, chicken noodle soup, pizza",Boredom and stress,2.0,1,Starchy food,['other']
-"Chocolate, Chips, Ice cream, French Fires, Pizza","Stress, sadness, boredom",1.0,2,Starchy food,"['stress/anxiety', 'sadness', 'boredom']"
-"Mac and cheese, lasagna, Chinese food ","Boredom, sadness",2.0,2,Starchy food,"['boredom', 'sadness']"
-"candy, Chinese, mcdonalds",laziness and hungover,5.0,2,Fat,['other']
-"Doritos, mac and cheese, ice cream","Boredom, hunger, snacking.",2.0,2,Dairy,"['boredom', 'other', 'other']"
-"Ice cream, cake, pop, pizza, and milkshakes.","Happiness, sadness, celebration.",7.0,2,Starchy food,"['happiness/celebration', 'sadness', 'other']"
-"Mac and Cheese, Pizza, Ice Cream and French Fries ","Boredom, anger and just being hungry in general.",2.0,1,Starchy food,"['boredom', 'other']"
-"Soup, pasta, cake","Depression, comfort, accessibility ",3.0,2,Starchy food,"['other', 'other', 'other']"
-"mac & cheese, frosted brownies, chicken nuggs","they are yummy, my boyfriend sometimes makes me sad, boredom",3.0,1,Dairy,"['other', 'other', 'boredom']"
-"watermelon, grapes, ice cream","Sad, bored, excited",3.0,1,Fruit and Vegetables,"['other', 'other', 'other']"
-"macaroni and cheese, stuffed peppers, hamburgers, french fries","boredom, stress, mood swings",2.0,1,Starchy food,"['boredom', 'stress/anxiety', 'other']"
-"Pizza, mashed potatoes, spaghetti","Anger, sadness",3.0,1,Starchy food,"['other', 'sadness']"
-"dark chocolate, terra chips, reese's cups(dark chocolate), and bread/crackers with cottage cheese","Anxiousness, watching TV I desire ""comfort food"" ",8.0,1,Dairy,"['other', 'other']"
-"Chips, chocolate, ,mozzarella sticks ","Boredom, sadness, anxiety",2.0,1,Dairy,"['boredom', 'sadness', 'stress/anxiety']"
-"ice cream, chips, candy","Boredom, laziness, anger",2.0,1,Dairy,"['boredom', 'other', 'other']"
-"Pizza, soda, chocolate brownie, chicken tikka masala and butter naan ",Stress and sadness,2.0,1,Starchy food,['other']
-"Chocolate, Pasta, Cookies","I am always stressed out, and bored when I am in my apartment. ",2.0,1,Starchy food,"['other', 'other']"
-"Candy, salty snacks, toast","Stress, sadness, boredom",2.0,1,Fat,"['stress/anxiety', 'sadness', 'boredom']"
-"Mac in cheese, pizza, mozzarella sticks ","Stress, frustration, self-consciousness ",2.0,1,Starchy food,"['stress/anxiety', 'other', 'other']"
-"Ice-cream, pizza, chocolate",Sadness and cravings,2.0,1,Starchy food,['other']
-"snacks, chips, ",boredom,2.0,2,Fat,['boredom']
-"Chocolate, Ice cream, pizza","Sadness, happiness and boredom",2.0,1,Starchy food,"['sadness', 'other']"
-"ice cream, pizza, Chinese food ",Boredom and sadness,2.0,1,Starchy food,['other']
-"Burgers, indian and korean food","sadness, happiness and hunger",2.0,2,Fat,"['sadness', 'other']"
-"chocolate bar, ice cream, pretzels, potato chips and protein bars.","Stress, boredom and physical activity",2.0,2,Dairy,"['stress/anxiety', 'other']"
-"Ice cream, chocolate, pizza, cucumber ","loneliness, homework, boredom ",2.0,1,Fruit and Vegetables,"['other', 'other', 'boredom']"
-"Noodle ( any kinds of noodle), Tuna sandwich, and Egg.",When i'm  eating with my close friends/ Food smell or look good/ when I feel tired,2.0,1,Starchy food,['other']
-"Chinese, chips, cake",Stress and boredom ,2.0,1,Fat,['other']
-"chips, rice, chicken curry,","Happiness, boredom, social event",2.0,2,Starchy food,"['happiness/celebration', 'boredom', 'other']"
-"wine. mac and cheese, pizza, ice cream ",boredom and sadness ,2.0,1,Starchy food,['other']
-Pizza / Wings / Cheesecake,Loneliness / Homesick / Sadness,2.0,1,Starchy food,['other']
-"rice, potato, seaweed soup",sadness,2.0,1,Starchy food,['sadness']
-"Mac n Cheese, Lasagna, Pizza","happiness, they are some of my favorite foods",2.0,2,Starchy food,"['happiness/celebration', 'other']"
-"Chocolates, pizza, and Ritz.","hormones, Premenstrual syndrome.",2.0,1,Starchy food,"['other', 'other']"
+comfort_food,comfort_food_reasons,Gender,cook,employment,food_group,mood_category
+none,we dont have comfort ,2,2.0,2,Others,['neutral']
+"chocolate, chips, ice cream","Stress, bored, anger",1,3.0,1,Dairy,"['anxiety', 'neutral', 'neutral']"
+"frozen yogurt, pizza, fast food","stress, sadness",1,1.0,2,Starchy food,"['anxiety', 'sadness']"
+"Pizza, Mac and cheese, ice cream",Boredom,1,2.0,2,Starchy food,['boredom']
+"Ice cream, chocolate, chips ","Stress, boredom, cravings ",1,1.0,1,Dairy,"['anxiety', 'boredom', 'neutral']"
+"Candy, brownies and soda.","None, i don't eat comfort food. I just eat when i'm hungry.",1,3.0,2,Fat,"['neutral', 'neutral']"
+"Chocolate, ice cream, french fries, pretzels","stress, boredom",2,2.0,2,Starchy food,"['anxiety', 'boredom']"
+"Ice cream, cheeseburgers, chips.","I eat comfort food when im stressed out from school(finals week), when I`m sad, or when i am dealing with personal family issues.",1,3.0,1,Dairy,"['neutral', 'neutral', 'neutral']"
+"Donuts, ice cream, chips",Boredom ,1,3.0,1,Dairy,['boredom']
+"Mac and cheese, chocolate, and pasta ","Stress, anger and sadness ",1,3.0,2,Starchy food,"['anxiety', 'neutral']"
+"Pasta, grandma homemade chocolate cake anything homemade ",Boredom ,1,1.0,2,Starchy food,['boredom']
+"chocolate, pasta, soup, chips, popcorn","sadness, stress, cold weather",1,3.0,1,Starchy food,"['sadness', 'anxiety', 'neutral']"
+"Cookies, popcorn, and chips","Sadness, boredom, late night snack ",2,5.0,2,Fat,"['sadness', 'boredom', 'neutral']"
+"ice cream, cake, chocolate","stress,  boredom, special occasions",1,2.0,1,Dairy,"['anxiety', 'boredom', 'neutral']"
+"Pizza, fruit, spaghetti, chicken and Potatoes  ","Friends, environment and boredom",2,3.0,2,Fruit and Vegetables,"['neutral', 'neutral']"
+"cookies, donuts, candy bars",boredom,2,4.0,2,Fat,['boredom']
+"Saltfish, Candy and Kit Kat ",Stress ,1,3.0,1,Protein,['anxiety']
+"chips, cookies, ice cream","I usually only eat comfort food when I'm bored, if i am doing something, i can go for hours without eating ",2,3.0,2,Dairy,"['neutral', 'neutral', 'neutral']"
+"Chocolate, ice crea ","Sadness, stress",1,3.0,1,Fat,"['sadness', 'anxiety']"
+"pizza, wings, Chinese","boredom, sadness, hungry",2,4.0,2,Starchy food,"['boredom', 'sadness', 'neutral']"
+"Fast food, pizza, subs","happiness, satisfaction",2,5.0,1,Starchy food,"['celebration', 'neutral']"
+"chocolate, sweets, ice cream",Mostly boredom,2,3.0,1,Dairy,['neutral']
+"burgers, chips, cookies","sadness, depression ",2,5.0,1,Fat,"['sadness', 'neutral']"
+"Chilli, soup, pot pie",Stress and boredom ,2,4.0,1,Others,['neutral']
+"Soup, pasta, brownies, cake","A long day, not feeling well, winter ",1,1.0,2,Starchy food,"['neutral', 'neutral', 'neutral']"
+"chocolate, ice cream/milkshake, cookies",boredom,1,3.0,2,Dairy,['boredom']
+"Chips, ice cream, microwaveable foods ","Boredom, lazyniss ",2,3.0,1,Dairy,"['boredom', 'neutral']"
+"Chicken fingers, pizza ",Boredom ,2,4.0,2,Starchy food,['boredom']
+"cookies, hot chocolate, beef jerky","survival, bored",2,2.0,1,Protein,"['neutral', 'neutral']"
+"Tomato soup, pizza, Fritos, Meatball sub, Dr. Pepper","Boredom, anger, drunkeness",2,3.0,2,Fruit and Vegetables,"['boredom', 'neutral', 'neutral']"
+"cookies, mac-n-cheese, brownies, french fries, ","stress, boredom, cold weather",1,3.0,1,Starchy food,"['anxiety', 'boredom', 'neutral']"
+"chips and dip, pepsi, ","stres, boredom, and nighttime",2,2.0,2,Fat,"['neutral', 'boredom', 'neutral']"
+"Grandma's Chinese, Peruvian food from back home, and sushi",Hunger and Boredom ,2,5.0,1,Others,['neutral']
+"Ice cream, cookies,  Chinese food, and chicken nuggets ","boredom, sadness, and if it has a good taste. ",1,4.0,2,Dairy,"['boredom', 'sadness', 'neutral']"
+"french fries, chips, ice cream","boredom, stressed, sad",1,4.0,2,Starchy food,"['boredom', 'neutral', 'neutral']"
+"mac n cheese, peanut butter and banana sandwich, omelet",Boredom usually,1,1.0,2,Starchy food,['neutral']
+"pizza, doughnuts, mcdonalds ",boredom,1,3.0,1,Starchy food,['boredom']
+"chocolate, chips, candy",Stress,1,2.0,1,Fat,['anxiety']
+"chocolate, popcorn, ice cream","boredom, stress",1,3.0,2,Dairy,"['boredom', 'anxiety']"
+"CandyPopChocolate Chipotle Moe's ",No reasons ,2,5.0,2,Fat,['neutral']
+"Pizza, Ice cream, fries, cereal, cookies  ",Usually if I'm sad or depressed. ,2,3.0,2,Starchy food,['neutral']
+"Ice cream, chocolate, twizzlers ",Tired ,1,2.0,1,Dairy,['neutral']
+"ice cream, cookie dough, cookies, cheese","Boredom!, sadness",1,4.0,1,Dairy,"['neutral', 'sadness']"
+"ice cream, cereal, and salt and vinegar chips ","All of the above; sadness, boredom and confusion ",1,3.0,2,Dairy,"['neutral', 'neutral']"
+"Potato chips, ice cream, chocolate, cookies","Stress, boredom, craving",1,1.0,1,Dairy,"['anxiety', 'boredom', 'neutral']"
+"Mac and cheese, fried chicken, cornbread ","Hunger, boredom",1,3.0,1,Dairy,"['neutral', 'boredom']"
+"popcorn, chips, candy, & fries ","sadness, boredom, & anger ",2,3.0,1,Starchy food,"['sadness', 'boredom', 'neutral']"
+"Chex-mix, Wegmans cookies, Cheez-Its ","Boredom, happiness, distraught ",2,4.0,2,Fat,"['boredom', 'celebration', 'neutral']"
+"pizza, ice cream, chips","stressed, upset, or just craving a cheat meal",2,4.0,2,Starchy food,"['neutral', 'neutral', 'neutral']"
+"fried chicken. mashed potatoes, mac and cheese",They taste better than other food. They are a pickme up. They are easy to make,2,3.0,2,Starchy food,['neutral']
+"Popcorn, Chex Mix, Pizza","Stress, boredom",2,5.0,2,Starchy food,"['anxiety', 'boredom']"
+Burger,Lazy,2,3.0,2,Others,['neutral']
+"Pizza, chocolate, and ice cream ","Boredom, sadness and anger ",2,1.0,2,Starchy food,"['boredom', 'neutral']"
+"fries, chips, fried chicken, pizza, grapes","Boredom, sadness",2,4.0,2,Fruit and Vegetables,"['boredom', 'sadness']"
+"peanut butter sandwich, pretzals, garlic bread","stress, anger and boredom",2,1.0,2,Starchy food,"['anxiety', 'neutral']"
+"chips, dip, fries, pizza","bored, stress",1,3.0,2,Starchy food,"['neutral', 'anxiety']"
+"Pizza, Ice Cream, Chicken Wings",I usually only eat comfort foods when I am bored. I will also eat them when I am happy to celebrate and then when I am sad to comfort me.,2,3.0,2,Starchy food,['neutral']
+Pizza chocolate chips bagels ice Capps ,Just cause ,1,2.0,1,Starchy food,['neutral']
+"Chocolate, ice cream, pasta","Stress, boredom, sadness",1,1.0,1,Starchy food,"['anxiety', 'boredom', 'sadness']"
+Mac n Cheese. Chips and salsa. Ice cream. ,Boredom. Celebration. ,1,2.0,2,Dairy,['neutral']
+"peanut butter, dessets, pretzels. ","Sadness, boredom, lonely.",1,2.0,2,Fat,"['sadness', 'boredom', 'neutral']"
+"Macaroons, truffles, peanut butter n chocolate ice cream","I do not really eat ""comfort food"" but I guess sadness, special occasions, and anxiety ",1,2.0,1,Dairy,"['neutral', 'neutral', 'neutral']"
+"ice cream, cookies, ice cream","boredom, sadness",2,3.0,1,Dairy,"['boredom', 'sadness']"
+"carrots and ranch, pretzels, dark chocolate ",sadness,1,3.0,2,Fruit and Vegetables,['sadness']
+"cookies, nutella, ice cream, coffee, fruit ","Bordem, happiness, sadness",1,1.0,1,Fruit and Vegetables,"['neutral', 'celebration', 'sadness']"
+mac and cheese,boredom,1,2.0,2,Dairy,['boredom']
+"Chocolate, Popcorn, Icecream",sadness,1,2.0,2,Fat,['sadness']
+"Ice cream, cake, mozzarella sticks, pierogies ",Boredom,1,4.0,1,Dairy,['boredom']
+"Chips, Mac and cheese, pizza, French fries ","Stress, sadness, bored ",1,3.0,2,Starchy food,"['anxiety', 'sadness', 'neutral']"
+"Pizza, burritos, slim jims","Boredom, stress, and it tastes good",1,2.0,2,Starchy food,"['boredom', 'anxiety', 'neutral']"
+"Broccoli, spaghetti squash, quinoa, and grilled chicken","Bad day, bored, sadness",1,3.0,1,Fruit and Vegetables,"['neutral', 'neutral', 'sadness']"
+"Chocolate, ice cream, cookie dough","Boredom, being in your period, and long bus rides for softball",1,2.0,1,Dairy,"['boredom', 'neutral', 'neutral']"
+"pizza, pretzels, fruit snacks, deli sandwhich","boredom, anger, happy",2,3.0,1,Fruit and Vegetables,"['boredom', 'neutral', 'neutral']"
+"Chips, ice cream","Boredom, stress",2,1.0,2,Dairy,"['boredom', 'anxiety']"
+unknown,unknown,2,2.0,2,Others,['neutral']
+"mac and cheese, potato soup, ice cream, chips and cheese","sadness, stressed, boredom",1,3.0,1,Dairy,"['sadness', 'neutral', 'boredom']"
+"chocolate, pizza, and mashed potatoes",boredom and stress,1,2.0,1,Starchy food,['neutral']
+Pizza cookies steak ,Boredom comfort hunger ,2,2.0,1,Starchy food,['neutral']
+"chocolate, fruit, and ice cream","stress, boredom",1,2.0,1,Fruit and Vegetables,"['anxiety', 'boredom']"
+Chips sweets popcorn,Boredom,2,5.0,2,Fat,['boredom']
+"Cookies, burgers, chicken noodle soup, ice cream","happiness, hunger, sadness",1,3.0,1,Starchy food,"['celebration', 'neutral', 'sadness']"
+"cake, French fries, chicken nuggets","boredom, sadness",1,3.0,2,Starchy food,"['boredom', 'sadness']"
+"pizza, ice cream, cookies",boredom,1,3.0,2,Starchy food,['boredom']
+"Mashed potatoes, pasta","Boredom, sadness, or with friends ",1,2.0,2,Starchy food,"['boredom', 'sadness', 'neutral']"
+"Pasta dishes, Cheesecake, Pancakes","Sadness, Loneliness, Boredom",1,1.0,2,Starchy food,"['sadness', 'neutral', 'boredom']"
+"Ice cream, pizza, cookies",Mostly Stress,1,3.0,1,Starchy food,['neutral']
+"Chinese food, moes, sponge candy, homemade lasagne ","boredom, sadness ",1,2.0,2,Fat,"['boredom', 'sadness']"
+"pizza, pasta, mac and cheese",when i am sad or craving,2,4.0,1,Starchy food,['neutral']
+"Little Debbie snacks, donuts, pizza",None,2,3.0,1,Starchy food,['neutral']
+"carrots, plantain chips, almonds, popcorn ","stress, boredom, college as whole ",1,3.0,1,Fruit and Vegetables,"['anxiety', 'boredom', 'neutral']"
+"chips, ice cream, fruit snacks",boredom,2,4.0,2,Fruit and Vegetables,['boredom']
+"Macaroni and cheese, chicken noodle soup, pizza",Boredom and stress,1,2.0,1,Starchy food,['neutral']
+"Chocolate, Chips, Ice cream, French Fires, Pizza","Stress, sadness, boredom",2,2.0,1,Starchy food,"['anxiety', 'sadness', 'boredom']"
+"Mac and cheese, lasagna, Chinese food ","Boredom, sadness",2,4.0,2,Starchy food,"['boredom', 'sadness']"
+"candy, Chinese, mcdonalds",laziness and hungover,2,2.0,2,Fat,['neutral']
+"Doritos, mac and cheese, ice cream","Boredom, hunger, snacking.",2,3.0,2,Dairy,"['boredom', 'neutral', 'neutral']"
+"Ice cream, cake, pop, pizza, and milkshakes.","Happiness, sadness, celebration.",2,2.0,1,Starchy food,"['celebration', 'sadness', 'neutral']"
+"Mac and Cheese, Pizza, Ice Cream and French Fries ","Boredom, anger and just being hungry in general.",1,3.0,1,Starchy food,"['boredom', 'neutral']"
+"Soup, pasta, cake","Depression, comfort, accessibility ",2,4.0,2,Starchy food,"['neutral', 'neutral', 'neutral']"
+"mac & cheese, frosted brownies, chicken nuggs","they are yummy, my boyfriend sometimes makes me sad, boredom",1,4.0,1,Dairy,"['neutral', 'neutral', 'boredom']"
+"watermelon, grapes, ice cream","Sad, bored, excited",1,3.0,1,Fruit and Vegetables,"['neutral', 'neutral', 'neutral']"
+"macaroni and cheese, stuffed peppers, hamburgers, french fries","boredom, stress, mood swings",1,3.0,1,Starchy food,"['boredom', 'anxiety', 'neutral']"
+"Pizza, mashed potatoes, spaghetti","Anger, sadness",1,2.0,2,Starchy food,"['neutral', 'sadness']"
+"dark chocolate, terra chips, reese's cups(dark chocolate), and bread/crackers with cottage cheese","Anxiousness, watching TV I desire ""comfort food"" ",1,2.0,1,Dairy,"['neutral', 'neutral']"
+"Chips, chocolate, ,mozzarella sticks ","Boredom, sadness, anxiety",1,4.0,1,Dairy,"['boredom', 'sadness', 'stress']"
+"ice cream, chips, candy","Boredom, laziness, anger",1,3.0,2,Dairy,"['boredom', 'neutral', 'neutral']"
+"Pizza, soda, chocolate brownie, chicken tikka masala and butter naan ",Stress and sadness,1,2.0,2,Starchy food,['neutral']
+"Chocolate, Pasta, Cookies","I am always stressed out, and bored when I am in my apartment. ",1,2.0,1,Starchy food,"['neutral', 'neutral']"
+"Candy, salty snacks, toast","Stress, sadness, boredom",1,5.0,2,Fat,"['anxiety', 'sadness', 'boredom']"
+"Mac in cheese, pizza, mozzarella sticks ","Stress, frustration, self-consciousness ",1,2.0,1,Starchy food,"['anxiety', 'neutral', 'neutral']"
+"Ice-cream, pizza, chocolate",Sadness and cravings,1,3.0,2,Starchy food,['neutral']
+"snacks, chips, ",boredom,2,2.0,1,Fat,['boredom']
+"Chocolate, Ice cream, pizza","Sadness, happiness and boredom",1,1.0,2,Starchy food,"['sadness', 'neutral']"
+"ice cream, pizza, Chinese food ",Boredom and sadness,1,2.0,1,Starchy food,['neutral']
+"Burgers, indian and korean food","sadness, happiness and hunger",2,3.0,2,Fat,"['sadness', 'neutral']"
+"chocolate bar, ice cream, pretzels, potato chips and protein bars.","Stress, boredom and physical activity",2,4.0,1,Dairy,"['anxiety', 'neutral']"
+"Ice cream, chocolate, pizza, cucumber ","loneliness, homework, boredom ",1,3.0,2,Fruit and Vegetables,"['neutral', 'neutral', 'boredom']"
+"Noodle ( any kinds of noodle), Tuna sandwich, and Egg.",When i'm  eating with my close friends/ Food smell or look good/ when I feel tired,1,3.0,1,Starchy food,['neutral']
+"Chinese, chips, cake",Stress and boredom ,1,3.0,1,Fat,['neutral']
+"chips, rice, chicken curry,","Happiness, boredom, social event",2,2.0,1,Starchy food,"['celebration', 'boredom', 'neutral']"
+"wine. mac and cheese, pizza, ice cream ",boredom and sadness ,1,3.0,2,Starchy food,['neutral']
+Pizza / Wings / Cheesecake,Loneliness / Homesick / Sadness,1,3.0,2,Starchy food,['neutral']
+"rice, potato, seaweed soup",sadness,1,3.0,2,Starchy food,['sadness']
+"Mac n Cheese, Lasagna, Pizza","happiness, they are some of my favorite foods",2,3.0,1,Starchy food,"['celebration', 'neutral']"
+"Chocolates, pizza, and Ritz.","hormones, Premenstrual syndrome.",1,3.0,1,Starchy food,"['neutral', 'neutral']"
